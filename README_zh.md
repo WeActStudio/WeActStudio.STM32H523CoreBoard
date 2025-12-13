@@ -4,6 +4,10 @@
 STM32H523CET6
 > 250Mhz Max,274KB RAM,512KB ROM
 
+![display](Images/2.png)
+STM32H523CCU6
+> 250Mhz Max,274KB RAM,256KB ROM
+
 ST 官方网站 www.st.cn
 
 |目录名称|内容|
